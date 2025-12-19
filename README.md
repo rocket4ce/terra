@@ -17,6 +17,7 @@ Cloud. By the end of this tutorial, you will have a fully functional Phoenix app
   - Overview of Phoenix Framework
   - Introduction to Terraform
   - Introduction to Hetzner Cloud
+  - Results to be achieved
 2. **Setting Up Hetzner Cloud**
   - Creating a Hetzner Cloud account
   - Generating API tokens
@@ -27,3 +28,17 @@ Cloud. By the end of this tutorial, you will have a fully functional Phoenix app
   - Writing Terraform configuration files
   - Initializing Terraform
   - Applying the configuration to create a server
+5. **Create a Phoenix Application**
+  - Creating a new Phoenix application
+  - Configuring the application for deployment
+6. **Deploying the Phoenix Application**
+  - Writing deployment scripts
+  - Using Terraform to deploy the application
+7. **Testing the Deployment**
+  - Accessing the Phoenix application
+  - Verifying functionality
+8. **Troubleshooting**
+  - Common issues and solutions
+9. **Conclusion**
+  - Recap of what was learned
+  - Next steps and further resources
